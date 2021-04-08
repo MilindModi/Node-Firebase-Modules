@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986446336282",
+    "firebase_url": "https://auth-cb464.firebaseio.com",
+    "project_id": "auth-cb464",
+    "storage_bucket": "auth-cb464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986446336282:android:ee842e7df45e6921",
+        "android_client_info": {
+          "package_name": "com.pushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986446336282-k0l74pumdf6h9n0kbsd02pd28575io1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7nI0lmveyWpB9U6vGccXCfWuEs1eaB5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986446336282-k0l74pumdf6h9n0kbsd02pd28575io1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
